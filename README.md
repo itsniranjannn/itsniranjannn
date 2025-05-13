@@ -1,5 +1,5 @@
 - 👋 Hi, I’m niranjannn
-- 👀 I’m interested in programming 
+- 👀 I’m interested in programming, web designing
 - 🌱 I’m currently learning basics
 
 
